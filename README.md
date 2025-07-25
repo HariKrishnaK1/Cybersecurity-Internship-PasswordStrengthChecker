@@ -49,7 +49,7 @@ To develop a secure and user-friendly **Password Strength Checker** that uses be
 
 ## 📝 Report
 
-You can find the full **project report** here: [Password_Strength_Checker_Report.pdf](./Password_Strength_Checker_Report.pdf)
+You can find the full **project report** here: [Password_Strength_Checker_Report.pdf](./Cybersecurity_Internship_Project_Report.pdf)
 
 ---
 
