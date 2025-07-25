@@ -55,9 +55,9 @@ You can find the full **project report** here: [Password_Strength_Checker_Report
 
 ## 🙌 Author
 
-**Hari**  
+**HARIKRISHNA KOGILI**  
 Cybersecurity Intern  
-SRKR Engineering College
+SRKR Engineering College Bhimavaram
 
 ---
 
